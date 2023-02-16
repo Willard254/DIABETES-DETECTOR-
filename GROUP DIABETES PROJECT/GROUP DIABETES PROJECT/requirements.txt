@@ -1,0 +1,7 @@
+4.PROJECT REQUIREMENTS
+Scikit Learn 
+Pandas 
+Matplotlib 
+Numpy 
+Streamlit 
+Plotly
